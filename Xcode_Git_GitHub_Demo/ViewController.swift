@@ -14,7 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         print("Done with initial creation of project with git repo.")
-        print("TODO: setup Xcode project for \"automatic\" push to GitHub")
+        print("Done with setting up Xcode project for pushing commits to GitHub")
     }
 
     override func didReceiveMemoryWarning() {
